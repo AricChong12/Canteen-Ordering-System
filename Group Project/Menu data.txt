@@ -1,0 +1,11 @@
+F01				     Nasi Lemak		          7.5		  9.5
+F02				     Nasi Goreng		  8.5		  10.5
+F03				  Nasi Goreng Pattaya		  11.5		  13.5
+F04				  Nasi Goreng Tomato		  7.5		  9.5
+F05				     Bihun Sup		  	  8.5		  10.5
+D01				     Kopi Panas		          1.5		  3.0
+D02				      Kopi Ais		          2.0		  4.0
+D03				     Milo Panas		          2.0		  4.0
+D04				      Milo Ais		          2.5		  5.0
+D05				    Milo Dinosaur		  4.0		  8.0
+
