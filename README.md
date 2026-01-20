@@ -1,2 +1,2 @@
 # Canteen-Ordering-System
-Programming Techniques Project
+Programming Techniques Team Project 
